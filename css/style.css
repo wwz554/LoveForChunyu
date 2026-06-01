@@ -1,1 +1,0 @@
-body{margin:0;overflow:hidden;background:#000}canvas{display:block}#love{position:fixed;inset:0;display:flex;justify-content:center;align-items:center;font-size:6vw;font-weight:900;color:#fff;text-shadow:0 0 30px #ff4da6;animation:spin 12s linear infinite;pointer-events:none}@keyframes spin{from{transform:rotateY(0)}to{transform:rotateY(360deg)}}
