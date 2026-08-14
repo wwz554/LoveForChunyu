@@ -1,0 +1,7 @@
+fastapi==0.115.14
+uvicorn[standard]==0.35.0
+pandas==2.3.1
+openpyxl==3.1.5
+python-multipart==0.0.20
+Pillow==11.3.0
+rapidocr_onnxruntime==1.4.4
